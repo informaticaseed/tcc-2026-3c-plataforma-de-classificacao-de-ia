@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — Plataforma de categorização e comparação de IA
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
@@ -7,18 +7,18 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
-
-**Tema:** (escreva aqui em 1 frase)
-**Tecnologia:** Python + Flask + SQLite
+| Artur Orrico | @arturorricoferreira | 3C |
+| Vitor Orrico | @vitoroferreira2009 | 3C |
+| Gustavo de souza | @gustavosouzarrz | 3C |
+| Guilherme Fracisco | @guilhermeF672  | 3C |
+**Tema:** Plataforma que compara e descreve a função de várias IA.
+**Tecnologia:** Html e CSS.
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+Plataforma que compara e descreve a função de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar.
 
 ---
 
