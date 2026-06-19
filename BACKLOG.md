@@ -16,12 +16,12 @@
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
-| 1 | (escreva aqui) | Alta | ⏳ A fazer |
-| 2 | (escreva aqui) | Alta | ⏳ A fazer |
-| 3 | (escreva aqui) | Alta | ⏳ A fazer |
-| 4 | (escreva aqui) | Média | ⏳ A fazer |
-| 5 | (escreva aqui) | Média | ⏳ A fazer |
-| 6 | (escreva aqui) | Baixa | ⏳ A fazer |
+| 1 | Login do usuário | Alta | ⏳ A fazer |
+| 2 | Cadastro | Alta | ⏳ A fazer |
+| 3 | Banco de dados | Alta | ⏳ A fazer |
+| 4 | Design do aplicativo | Média | ⏳ A fazer |
+| 5 | Experimentação das IA's | Média | ⏳ A fazer |
+| 6 | Acesso as IA's  | Baixa | ⏳ A fazer |
 
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
 
@@ -29,8 +29,8 @@
 
 ## 🚫 Fora do escopo (não entra no MVP)
 
-- (o que vocês decidiram não fazer)
-- (o que ficou para depois)
+- Um outro tema abordando a execução de jogos simples.
+- A criação da nossa plataforma do nosso TCC atual.
 
 ---
 
