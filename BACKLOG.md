@@ -1,11 +1,3 @@
-# Backlog do MVP — [Nome do Grupo]
-
-> Este arquivo é o resumo fixo do projeto.
-> O backlog semanal vivo fica nas **Issues** do repositório.
-> Acesse: github.com/informaticaseed/[repo]/issues
-
----
-
 ## 🎯 Objetivo do MVP
 
 (Descreva em 2-3 frases o que o MVP precisa entregar)
@@ -38,5 +30,3 @@
 
 - **Issues (backlog semanal):** [link das issues]
 - **Pull Requests:** [link dos PRs]
-- **Painel do professor:** [link do GitHub Project]
-- **Diagrama de arquitetura:** docs/arquitetura.md
