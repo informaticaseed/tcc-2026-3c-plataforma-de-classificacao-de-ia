@@ -22,7 +22,7 @@ Plataforma que compara e descreve a função de cada IA, poupando trabalho do us
 
 ---
 
-## 🔄 Como o grupo trabalha toda semana
+## 🔄  Como o grupo trabalha toda semana
 
 1. **Segunda** — cada integrante verifica as atividades da semana.
 2. **Durante a semana** — Excutam pesquisas e acrescentam informações.
