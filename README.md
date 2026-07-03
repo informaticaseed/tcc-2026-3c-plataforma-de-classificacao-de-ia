@@ -18,7 +18,7 @@
 
 ## 🎯 O que o sistema faz
 
-Plataforma que compara e descreve a função de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar.
+Plataforma que compara e descreve a função de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar ou tarefa/projeto que queira realizar.
 
 ---
 
