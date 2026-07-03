@@ -1,6 +1,6 @@
 ## 🎯 Objetivo do MVP
 
-(Descreva em 2-3 frases o que o MVP precisa entregar)
+Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário possa criar uma conta, fazer login e acessar uma interface simples para visualizar e experimentar diferentes inteligências artificiais. O sistema deve salvar os dados em um banco de dados e permitir testes básicos das funcionalidades principais.
 
 ---
 
