@@ -22,7 +22,7 @@ Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário po
 ## 🚫 Fora do escopo (não entra no MVP)
 
 - Um outro tema abordando a execução de jogos simples.
-- A criação da nossa plataforma do nosso TCC atual.
+- Criação de uma plataforma completa de produção do TCC
 
 ---
 
