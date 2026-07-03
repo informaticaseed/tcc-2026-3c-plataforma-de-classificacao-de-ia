@@ -13,7 +13,7 @@
 | Guilherme Fracisco | @guilhermeF672  | 3C |
 **Tema:** Plataforma que compara e descreve a função de várias IA.
 **Tecnologia:** Html, CSS e python. 
-
+ 
 ---
 
 ## 🎯 O que o sistema faz
