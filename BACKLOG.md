@@ -31,5 +31,5 @@ Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário po
 - **Issues (backlog semanal):** [link das issues]
 - **Pull Requests:** [link dos PRs]
 
-recuperacao: 
+recuperacao: melhora o fora do escopo
 recuperacao: atualiza objetivo do MVP
