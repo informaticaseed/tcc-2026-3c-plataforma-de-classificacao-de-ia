@@ -11,9 +11,10 @@ servindo no caso de revisão do codigo , ou para sua complementação
 3. O que é separação de camadas no código?
 é uma forma de separação do codigo de forma a tornar mais facil sua alteração sem afetar diretamente
 outras partes do codigo
-o app.py É o ponto de entrada da sua aplicação. Ele recebe as requisições (seja de um usuário em uma interface web, de uma linha de comando ou de uma API), aciona a lógica de negócios e devolve a resposta.
+o app.py É o ponto de entrada da sua aplicação. Ele recebe as requisições (seja de um usuário em uma interface web, de uma linha de comando ou de uma API), aciona a lógica de negócios e devolve a resposta ja o repositorio.py fala diretamente com o banco de dados 
 
 4. O que você deixou de fazer neste bimestre e por quê?
-
+   a atividade da primeira semana e a sua reposição na terceira semana , devido as meus problemas no serpro virtual a minha questão de saude e pela questão de atividades em outras materias e pela falha dos materiais que eu tenho em casa
 
 5. Plano para o 3o bimestre
+ter uma maior organização com relação a prazo e atividades
