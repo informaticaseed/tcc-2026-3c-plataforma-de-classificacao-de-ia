@@ -24,6 +24,11 @@ recuperacao: atualização no que o sistema faz.
 
 recuperacao: mais linguagem python que estamos mais familiarizados.
 
+G,recuperação:devido ao tempo curto trabalharemos no maximo com 4 I.As
+
+G,recuperação:a nossa plataforma possuiara sistemas de busca atraves de preferencias do usuario do que ele desejara
+que a I.A trabalhe 
+
 ## 🔄  Como o grupo trabalha toda semana
 
 1. **Segunda** — cada integrante verifica as atividades da semana.
