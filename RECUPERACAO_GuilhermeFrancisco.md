@@ -17,5 +17,5 @@ o app.py É o ponto de entrada da sua aplicação. Ele recebe as requisições (
    a atividade da primeira semana e a sua reposição na terceira semana , devido as meus problemas no serpro virtual a minha questão de saude e pela questão de atividades em outras materias e pela falha dos materiais que eu tenho em casa
 
 5. Plano para o 3o bimestre
-ter uma maior organização com relação a prazo e atividades
+ter uma maior organização com relação a prazo e atividades 
  
