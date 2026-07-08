@@ -8,7 +8,7 @@ um Pull Request é basicamente um metodo que se ha para um desenvolvedor propor
 uma alteração do codigo do  projeto
 servindo no caso de revisão do codigo , ou para sua complementação
 
-3. O que é separação de camadas no código?
+3.   O que é separação de camadas no código?
 é uma forma de separação do codigo de forma a tornar mais facil sua alteração sem afetar diretamente
 outras partes do codigo
 o app.py É o ponto de entrada da sua aplicação. Ele recebe as requisições (seja de um usuário em uma interface web, de uma linha de comando ou de uma API), aciona a lógica de negócios e devolve a resposta ja o repositorio.py fala diretamente com o banco de dados 
