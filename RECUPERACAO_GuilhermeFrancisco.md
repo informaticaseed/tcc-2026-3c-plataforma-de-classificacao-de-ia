@@ -1,6 +1,6 @@
-1. O que é uma Issue e para que serve no desenvolvimento de software?
+   1. O que é uma Issue e para que serve no desenvolvimento de software?
 uma Issues é basicamente um registro para consequir identificar uma parte especifica do software
-servindo principalmente para encontrar erros, para organização do trabalho e para
+s. ervindo principalmente para encontrar erros, para organização do trabalho e para
 revisão do projeto
 
 2. O que é um Pull Request e por que ele é importante?
