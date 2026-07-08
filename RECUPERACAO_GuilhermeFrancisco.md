@@ -18,4 +18,4 @@ o app.py É o ponto de entrada da sua aplicação. Ele recebe as requisições (
 
 5. Plano para o 3o bimestre
 ter uma maior organização com relação a prazo e atividades
- 
+  
