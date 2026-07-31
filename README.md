@@ -32,9 +32,9 @@ que a I.A trabalhe
 ## 🔄  Como o grupo trabalha toda semana
 
 1. **Segunda** — cada integrante verifica as atividades da semana.
-2. **Durante a semana** — Excutam pesquisas e acrescentam informações.
-3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas
-4. **Push** — métricas de participação aparecem automaticamente no Actions
+2. **Durante a semana** — Excutam pesquisas e acrescentam informações de forma mais profissional para o TCC, e trabalham no código do site.
+3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas.
+4. **Push** — métricas de participação aparecem automaticamente no Actions.
 
 ---
 
