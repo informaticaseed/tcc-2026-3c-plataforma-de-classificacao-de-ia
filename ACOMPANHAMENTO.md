@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Classificação de IA
+**Turma:** 3C
+
 
 ---
 
@@ -11,9 +11,17 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Artur Orrico | Backend: consultar LLM com filtros; conversa com uma LLM |
+| Vitor Orrico | Relatório: levantamentos requisitos; diagrama de caso de uso|
+| Gustavo | Frontend: melhorias e integração com as funcionalidades |
+| Guilherme Francisco | Banco de dados |
+
+Backlog:
+- Banco de dados
+- Backend: consultar LLM com filtros; conversa com uma LLM
+- Frontend: melhorias e integração com as funcionalidades
+- Relatório: metodologia, levantamentos requisitos; diagrama de caso de uso; diagrama modelo relacional; conclusão
+
 
 ### Verificação em 08/08
 
