@@ -18,7 +18,7 @@
 
 ## 🎯 O que o sistema faz
 
-Plataforma que compara e descreve a função de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar ou tarefa/projeto que queira realizar.
+Plataforma de busca e classificalçâo com a funcionalidade de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar ou tarefa/projeto que queira realizar.
 
 recuperacao: atualização no que o sistema faz.
 
@@ -29,6 +29,9 @@ G,recuperação:devido ao tempo curto trabalharemos no maximo com 4 I.As
 G,recuperação:a nossa plataforma possuiara sistemas de busca atraves de preferencias do usuario do que ele desejara
 que a I.A trabalhe 
 
+seu uso como forma de Marketing para os planos de uso das empresas de inteligencias artificiais
+
+ja começamos o desenvolvimento da versão base da plataforma 
 ## 🔄  Como o grupo trabalha toda semana
 
 1. **Segunda** — cada integrante verifica as atividades da semana.
