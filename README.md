@@ -43,7 +43,7 @@ ja começamos o desenvolvimento da versão base da plataforma
 ---
 
 ## 📁 Estrutura do projeto
-
+ 
 ```
 ├── README.md           ← este arquivo
 ├── BACKLOG.md          ← resumo fixo do MVP e links
