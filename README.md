@@ -1,27 +1,27 @@
 # TCC 2026 — Plataforma de categorização e comparação de IA
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
-
+      
 ---
   
 ## 👥 Integrantes
 
 | Nome completo | GitHub | Turma |
-|--------------|--------|-------|
+|--------------|--------|-------| 
 | Artur Orrico | @arturorricoferreira | 3C |
-| Vitor Orrico | @vitoroferreira2009 | 3C |
+| Vitor Orrico | @vitoroferreira2009 | 3C | 
 | Gustavo de souza | @gustavosouzarrz | 3C |
-| Guilherme Fracisco | @guilhermeF672  | 3C |
-**Tema:** Plataforma que compara e descreve a função de várias IA.
-**Tecnologia:** Html, CSS e python.   
- 
----
+| Guilherme Fracisco | @guilhermeF672  | 3C | 
+**Tema:** Plataforma que compara e descreve a função de várias IA.  
+**Tecnologia:** Html, CSS e python.  
+  
+---  
 
 ## 🎯 O que o sistema faz
 
 Plataforma de busca e classificalçâo com a funcionalidade de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar ou tarefa/projeto que queira realizar.
 
 recuperacao: atualização no que o sistema faz.
-
+ 
 recuperacao: mais linguagem python que estamos mais familiarizados.
 
 G,recuperação:devido ao tempo curto trabalharemos no maximo com 4 I.As
@@ -43,7 +43,7 @@ ja começamos o desenvolvimento da versão base da plataforma
 ---
 
 ## 📁 Estrutura do projeto
-
+ 
 ```
 ├── README.md           ← este arquivo
 ├── BACKLOG.md          ← resumo fixo do MVP e links
@@ -51,7 +51,7 @@ ja começamos o desenvolvimento da versão base da plataforma
 │   ├── arquitetura.md  ← diagrama de arquitetura
 │   └── decisoes/       ← registros de decisão técnica (ADR)
 ├── diagramas/          ← imagens e diagramas
-├── evidencias/         ← screenshots das demos
+├── evidencias/         ← screenshots das demos 
 ├── src/                ← código do sistema
 └── tests/              ← testes automáticos
 ```
