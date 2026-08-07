@@ -29,7 +29,7 @@ G,recuperação:devido ao tempo curto trabalharemos no maximo com 4 I.As
 G,recuperação:a nossa plataforma possuiara sistemas de busca atraves de preferencias do usuario do que ele desejara
 que a I.A trabalhe 
 
-seu uso como forma de Marketing para os planos de uso das empresas de inteligencias artificiais
+Seu uso como forma de Marketing para os planos de uso das empresas de inteligencias artificiais
 
 ja começamos o desenvolvimento da versão base da plataforma 
 
