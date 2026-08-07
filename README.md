@@ -11,7 +11,7 @@
 | Vitor Orrico | @vitoroferreira2009 | 3C |
 | Gustavo de souza | @gustavosouzarrz | 3C |
 | Guilherme Fracisco | @guilhermeF672  | 3C | 
-**Tema:** Plataforma que compara e descreve a função de várias IA. 
+**Tema:** Plataforma que compara e descreve a função de várias IA.  
 **Tecnologia:** Html, CSS e python.  
  
 ---  
