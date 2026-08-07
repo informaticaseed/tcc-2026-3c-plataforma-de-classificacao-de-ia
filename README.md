@@ -51,7 +51,7 @@ ja começamos o desenvolvimento da versão base da plataforma
 │   ├── arquitetura.md  ← diagrama de arquitetura
 │   └── decisoes/       ← registros de decisão técnica (ADR)
 ├── diagramas/          ← imagens e diagramas
-├── evidencias/         ← screenshots das demos
+├── evidencias/         ← screenshots das demos 
 ├── src/                ← código do sistema
 └── tests/              ← testes automáticos
 ```
