@@ -1,6 +1,6 @@
 # TCC 2026 — Plataforma de categorização e comparação de IA
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
-
+      
 ---
   
 ## 👥 Integrantes
