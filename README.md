@@ -21,7 +21,7 @@
 Plataforma de busca e classificalçâo com a funcionalidade de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar ou tarefa/projeto que queira realizar.
 
 recuperacao: atualização no que o sistema faz.
-
+ 
 recuperacao: mais linguagem python que estamos mais familiarizados.
 
 G,recuperação:devido ao tempo curto trabalharemos no maximo com 4 I.As
