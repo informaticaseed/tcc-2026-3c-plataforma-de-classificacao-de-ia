@@ -6,7 +6,7 @@ Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário po
 
 ## ✅ Funcionalidades do MVP
 
-| # | Funcionalidade | Prioridade | Status |
+| # | Funcionalidade | Prioridade | Status | 
 |---|---------------|-----------|--------|
 | 1 | Login do usuário | Alta | ⏳ A fazer |
 | 2 | Cadastro | Alta | ⏳ A fazer | 
