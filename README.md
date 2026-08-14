@@ -33,6 +33,10 @@ Seu uso como forma de Marketing para os planos de uso das empresas de inteligenc
 
 ja começamos o desenvolvimento da versão base da plataforma 
 
+atualização da plataforma
+
+criação da primeira versão do diagrama de casos de uso  
+
 ## 🔄  Como o grupo trabalha toda semana
 
 1. **Segunda** — cada integrante verifica as atividades da semana.
