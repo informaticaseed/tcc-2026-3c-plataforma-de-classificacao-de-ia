@@ -27,7 +27,7 @@ recuperacao: mais linguagem python que estamos mais familiarizados.
 G,recuperação:devido ao tempo curto trabalharemos no maximo com 4 I.As
 
 G,recuperação:a nossa plataforma possuiara sistemas de busca atraves de preferencias do usuario do que ele desejara
-que a I.A trabalhe 
+que a I.A trabalhe  
 
 Seu uso como forma de Marketing para os planos de uso das empresas de inteligencias artificiais
 
