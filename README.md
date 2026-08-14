@@ -5,7 +5,7 @@
   
 ## 👥 Integrantes
 
-| Nome completo | GitHub | Turma | 
+| Nome completo | GitHub | Turma |  
 |--------------|--------|-------| 
 | Artur Orrico | @arturorricoferreira | 3C | 
 | Vitor Orrico | @vitoroferreira2009 | 3C | 
