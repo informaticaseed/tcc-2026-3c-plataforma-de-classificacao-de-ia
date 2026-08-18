@@ -20,7 +20,7 @@ Backlog:
 - Banco de dados
 - Backend: consultar LLM com filtros; conversa com uma LLM
 - Frontend: melhorias e integração com as funcionalidades
-- Relatório: metodologia, levantamentos requisitos; diagrama de caso de uso; diagrama modelo relacional; conclusão
+- Relatório: metodologia, colocar no TCC levantamentos requisitos (já está pronto); colocar no TCC diagrama de caso de uso(já está pronto); diagrama modelo relacional; conclusão
 
 
 ### Verificação em 08/08
@@ -38,13 +38,14 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 18/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Artur Orrico | Backend: integração do chatbot com um modelo de IA groq; Trabalhar junto com o Guilherme na integração do banco de dados |
+| Vitor Orrico | Colocar o código atual no github e auxiliar os colegas a clonar o github e utilizar diariamente |
+| Gustavo | Frontend: melhorar na paleta de cores e implementar a tabela|
+| Guilherme Francisco | Modelar o Banco de dados com SQLite integrando com o backend trabalhando com Artur|
 
 ### Verificação em 22/08
 
