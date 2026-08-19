@@ -18,13 +18,6 @@ Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário po
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
 
 ---
- 
-## 🚫 Fora do escopo (não entra no MVP)
-
-- Um outro tema abordando a execução de jogos simples.
-- Criação de uma plataforma completa de produção do TCC
-
----
 
 ## 🔗 Links úteis
 
