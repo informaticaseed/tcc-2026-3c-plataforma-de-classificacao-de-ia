@@ -1,4 +1,4 @@
- ## 🎯 Objetivo do MVP
+  ## 🎯 Objetivo do MVP
  
 Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário possa criar uma conta, fazer login e acessar uma interface simples para visualizar e utilizar de forma eficiente e profissional diferentes inteligências artificiais. O sistema deve salvar os dados em um banco de dados e permitir testes concretos das funcionalidades principais.
 
