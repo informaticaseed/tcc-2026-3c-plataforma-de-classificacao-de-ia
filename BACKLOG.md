@@ -25,4 +25,4 @@ Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário po
 - **Pull Requests:** [link dos PRs]
 
 recuperacao: melhora o fora do escopo
-recuperacao: atualiza objetivo do MVP
+recuperacao: atualiza objetivo do MVP 
