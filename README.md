@@ -14,7 +14,7 @@
 **Tema:** Plataforma que compara e descreve a função de várias IA.  
 **Tecnologia:** Html, CSS, python e SQLite.  
   
----  
+-- -  
 
 ## 🎯 O que o sistema faz
 
