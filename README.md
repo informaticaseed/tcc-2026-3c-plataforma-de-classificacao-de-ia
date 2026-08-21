@@ -16,7 +16,7 @@
   
 -- -  
 
-## 🎯 O que o sistema faz
+## 🎯 O que o sistema faz 
 
 Plataforma de busca e classificalçâo com a funcionalidade de cada IA, poupando trabalho do usuário para que ele possua informações rápidas de uma determinada IA para uma determinada função que ele quer executar ou tarefa/projeto que queira realizar.
 
