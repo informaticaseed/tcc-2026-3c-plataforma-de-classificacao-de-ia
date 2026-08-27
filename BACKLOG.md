@@ -11,7 +11,7 @@ Desenvolver uma plataforma inicial de classificação de IAs, onde o usuário po
 | 1 | Cadastro | Alta | ⏳ A fazer | 
 | 2 | Banco de dados | Alta | ⏳ A fazer |
 | 3 | Design do aplicativo | Média | ⏳ A fazer |
-| 4 | Experimentação das IA's | Média | ⏳ A fazer |    
+| 4 | Experimentação das IA's | Média | ⏳ A fazer |  
 | 5 | Acesso as IA's  | Baixa | ⏳ A fazer |
 
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
