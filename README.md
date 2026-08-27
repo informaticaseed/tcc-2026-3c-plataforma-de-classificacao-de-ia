@@ -7,7 +7,7 @@
 
 | Nome completo | GitHub | Turma |  
 |--------------|--------|-------| 
-| Artur Orrico | @arturorricoferreira | 3C |   
+| Artur Orrico | @arturorricoferreira | 3C |    
 | Vitor Orrico | @vitoroferreira2009 | 3C | 
 | Gustavo de souza | @gustavosouzarrz | 3C |  
 | Guilherme Fracisco | @guilhermeF672  | 3C | 
