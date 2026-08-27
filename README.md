@@ -33,7 +33,7 @@ Seu uso como forma de Marketing para os planos de uso das empresas de inteligenc
 
 ja começamos o desenvolvimento da versão base da plataforma 
 
-
+fizemos atualizações que tinham como finalidade concertar erros bases da plataforma
 
 ## 🔄  Como o grupo trabalha toda semana
 
