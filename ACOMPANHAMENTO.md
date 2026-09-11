@@ -62,13 +62,14 @@ Backlog:
 
 ## Quinzena 3 — 24/08 a 05/09
 
-### Compromissos assumidos em 24/08
+### Compromissos assumidos em 11/09
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Artur Orrico |  Fazer deploy render/vercel|
+| Vitor Orrico | Colocar o código atual no github e auxiliar os colegas a clonar o github e utilizar diariamente, diagrama relacional (DER/MER)|
+| Gustavo |Fazer uma landing page (informativa) |
+| Guilherme Francisco | Passar o relatório para o formado word do TCC disponibilizado no moodle (parcialmente relatório)|
 
 ### Verificação em 05/09
 
