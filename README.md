@@ -31,8 +31,7 @@ que a I.A trabalhe
 
 Seu uso como forma de Marketing para os planos de uso das empresas de inteligencias artificiais
 
-ja começamos o desenvolvimento da versão base da plataforma 
-
+Versão base da plataforma finalizada e polimento em andamento.
 
 
 ## 🔄  Como o grupo trabalha toda semana
