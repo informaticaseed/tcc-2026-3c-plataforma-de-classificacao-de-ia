@@ -34,7 +34,6 @@ Seu uso como forma de Marketing para os planos de uso das empresas de inteligenc
 Versão base da plataforma finalizada e polimento em andamento.
 
 
-
 ## 🔄  Como o grupo trabalha toda semana
 
 1. **Segunda** — cada integrante verifica as atividades da semana.
